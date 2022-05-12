@@ -1,3 +1,3 @@
 # CMCC
 
-Y. Cai, et al., "Cross-modal Contrastive Clustering for Multi-modal Remote Sensing Images", under consideration at IEEE Trans. xx
+Y. Cai, et al., "Multi-Modal Contrastive Clustering with Transformer for Remote Sensing Images", under consideration at IEEE Trans. xx
