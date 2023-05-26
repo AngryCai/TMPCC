@@ -1,3 +1,3 @@
-# MMCC-T
+# TMPCC
 
-Y. Cai, et al., "Multi-Modal Contrastive Clustering with Transformer for Remote Sensing Images", under consideration at IEEE Trans. xx
+Y. Cai, et al., "Transformer-based Contrastive Prototypical Clustering for Multimodal Remote Sensing Data", under consideration at Inf. Sci.
